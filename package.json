@@ -1,0 +1,27 @@
+{
+  "name": "LeapSimpleGestures",
+  "version": "0.0.0",
+  "description": "A simple API to catch Leap Motion built-in gestures.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "node": ">= 0.10.0",
+    "leapjs": "~0.2.0",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leap",
+    "motion",
+    "gestures",
+    "interaction",
+    "api"
+  ],
+  "author": "Diego Paez",
+  "license": "MIT"
+}
