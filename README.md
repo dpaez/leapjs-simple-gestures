@@ -14,7 +14,7 @@ leapjs-simple-gestures
   // be sure to have leapjs installed
   var leap = require('leapjs'); 
   // clone this repo or include it into your project's dependencies
-  var LeapGestures = require('vendor/leap-simple-gestures');
+  var LeapGestures = require('./path/to/leap-simple-gestures');
 
   // then you can do...
   var controller = new Leap.Controller( {enableGestures: true} );
