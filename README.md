@@ -26,5 +26,5 @@ leapjs-simple-gestures
   ```
   
 ## Note
-This is an early release of a simple proof-of-concept. The main goal behind this module was to connect the Leap Motion device whit an arduino board and making them work together.
+This is an early release of a simple proof-of-concept. The main goal behind this module was to connect the Leap Motion device to an arduino board and making them work together.
 Check the example directory to see "what i'm talking about".
