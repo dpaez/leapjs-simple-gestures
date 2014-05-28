@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "A simple API to catch Leap Motion built-in gestures.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dpaez/leapjs-simple-gestures.git"
+  },
   "directories": {
     "example": "example"
   },
@@ -10,7 +14,6 @@
     "leapjs": "^0.6.0",
     "underscore": "~1.5.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
